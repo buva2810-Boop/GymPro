@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GymPro</string>
+
+    <string name="app_title">Gym Workout App</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="exit">Exit</string>
+    <string name="workout_planner">Workout Planner</string>
+    <string name="save_workout">Save Workout</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result">Your BMI will appear here</string>
+    <string name="about_title">App Info</string>
+    <string name="about_description">
+This Gym Workout App is designed to help users plan their workouts, track progress, and calculate BMI.\n\n
+The app includes structured workout days such as:\n
+• Chest Day – focuses on chest, shoulders, and triceps.\n
+• Back Day – targets the back and biceps.\n
+• Leg Day – strengthens the lower body including quadriceps, hamstrings, and calves.\n\n
+To support muscle growth and recovery, users are encouraged to consume protein-rich foods such as:\n
+• Chicken breast and grilled turkey\n
+• Eggs (boiled or scrambled)\n
+• Fish like salmon and tuna\n
+• Milk, yogurt, and low-fat cheese\n
+• Beans, lentils, and chickpeas\n
+• Tofu and tempeh\n
+• Nuts, peanuts, and peanut butter\n
+• Protein shakes or whey protein\n\n
+This app helps users maintain a healthy, balanced, and active fitness lifestyle.
+</string>
+    <string name="back">Back</string>
+    <string name="saved_workout">Saved Workout</string>
+    <string name="workout_day">Workout Day</string>
+    <string name="workouts">Workouts</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="about_app">About App</string>
+    <!-- Buy Tools Page -->
+    <string name="buy_tools_title">Buy Gym Equipment</string>
+    <string name="buy_dumbbells">Buy Dumbbells</string>
+    <string name="buy_bench">Buy Bench Press</string>
+    <string name="buy_barbell">Buy Barbell Set</string>
+    <string name="buy_resistance_band">Buy Resistance Bands</string>
+    <string name="buy_tools">Buy Gym Tools</string>
+    <string name="back_home">Back to Home</string>
+</resources>
